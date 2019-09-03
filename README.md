@@ -1,2 +1,2 @@
-# SimpleCrudJava
-A simple CRUD in JAVA
+# Simple Crud Java
+A simple CRUD in JAVA.
